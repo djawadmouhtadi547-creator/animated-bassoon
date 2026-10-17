@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "prime_reality_glitch",
+    "name": "Prime: Reality Glitch",
+    "description": "Minecraft 1.12.2 Forge mod prototype for reversed world rules.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["Prime"],
+    "dependencies": []
+  }
+]
